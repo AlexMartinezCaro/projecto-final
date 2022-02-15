@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+}
+
+
+
+@media screen and (min-width: 600px) {
+  body {
+    background-color: black;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  body {
+    background-color: black;
+  }
+}
+
+#foto { 
+
+    margin-left: 40%;
+}
+.uno { 
+     background-color: gray;
+}
+.uno {
+width: 50%;
+float: left;
+
+}
+
+.dos {
+    margin: 5px;
+    float: left;
+}
+
+.row {
+    margin-left: 40%;
+    margin-top: 150px;
+}
